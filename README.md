@@ -1,6 +1,6 @@
 # M5Stack HID Input Framework for xR (firmware)
 
-Regarding the source code of this project, please refer to this repository.
+Regarding the source code of this project, please refer to [this repository](https://github.com/kotobuki/M5Stack-HID-Input-Framework-for-xR).
 
 Built with the following packages and libraries:
 
