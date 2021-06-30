@@ -1,0 +1,14 @@
+{
+  "name": "M5Stack HID Input Framework for xR",
+  "description": "This is a firmware for M5Stack to let creators develop DIY controllers for xR applications without programming.",
+  "keywords": "",
+  "author": "kotobuki",
+  "repository": "https://github.com/kotobuki/M5Stack-HID-Input-Framework-for-xR-firmware",
+  "firmware_category": {
+    "path": "firmware",
+    "device": ["M5Stack Core"],
+    "default_baud": 921600
+  },
+  "version": "1.0.0",
+  "framework": "Arduino IDE"
+}
